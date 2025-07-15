@@ -1,23 +1,24 @@
+
 class Solution {
-    public int[] countBits(int n){
+    public int[] countBits(int n) {
+        int[] ret = new int[n +1];
 
-        int ans[]=new int[n+1];
-
-        for(int i=0;i<=n;i++){
-            String binary=Integer.toBinaryString(i);
-            int cnt=0;
-
-
-            for(char ch : binary.toCharArray()){
-
-                if(ch=='1'){
-                    cnt++;
-                }
-                ans[i]=cnt;
-            }
+        for(int i = 0; i <= n; i++){
+            ret[i] = hammingWeight(i);
         }
 
-        return ans;
+        return ret;
+    }
+
+    public int hammingWeight(int n) {
+        int ret = 0;
         
+        while(n != 0){
+            ret++;
+            n &= (n - 1);
+        }
+        
+        return ret;
     }
 }
+ 
