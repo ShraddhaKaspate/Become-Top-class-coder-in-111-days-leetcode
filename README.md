@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0242-valid-anagram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
