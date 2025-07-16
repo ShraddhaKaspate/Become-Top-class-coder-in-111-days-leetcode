@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Two Pointers
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0338-counting-bits) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
