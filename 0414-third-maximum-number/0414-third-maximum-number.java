@@ -4,7 +4,7 @@ class Solution
     {
        Arrays.sort(nums);
        int cnt=1;
-       int thirdlargest=Integer.MIN_VALUE;
+       //int thirdlargest=Integer.MIN_VALUE;
        int largest=nums[nums.length-1];
         for(int i=nums.length-2;i>=0;i--){
             if(nums[i]<largest){
