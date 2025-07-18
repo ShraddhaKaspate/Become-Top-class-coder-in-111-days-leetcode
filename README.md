@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0414-third-maximum-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0414-third-maximum-number) |
 ## Dynamic Programming
 |  |
 | ------- |
