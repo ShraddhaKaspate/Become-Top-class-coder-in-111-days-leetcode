@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0414-third-maximum-number) |
 ## Dynamic Programming
 |  |
@@ -34,15 +37,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0338-counting-bits) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
