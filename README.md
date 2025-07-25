@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0268-missing-number) |
 ## String
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0412-fizz-buzz) |
 ## Simulation
