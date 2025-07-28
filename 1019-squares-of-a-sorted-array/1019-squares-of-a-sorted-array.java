@@ -1,14 +1,23 @@
 class Solution {
     public int[] sortedSquares(int[] nums) {
+        int i=0;
+        int j=nums.length-1;
         int arr[]=new int[nums.length];
-        int square;
-        for(int i=0;i<nums.length;i++){
-             square=nums[i]*nums[i];
-            arr[i]=square;
+        int pos = nums.length - 1;
+        while(i<=j){
+            int squareleft=nums[i]*nums[i];
+            int squareright=nums[j]*nums[j];
+            
+            if (squareleft > squareright){
+                arr[pos] = squareleft;
+                i++;
+            }else {
+                arr[pos] = squareright;
+                j--; 
+            }
+            pos--;
         }
 
-        Arrays.sort(arr);
-        return arr;
-
+         return arr;
     }
 }
