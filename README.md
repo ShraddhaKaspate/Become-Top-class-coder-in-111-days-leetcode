@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0561-array-partition) |
+| [0682-baseball-game](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0682-baseball-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1019-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0682-baseball-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0561-array-partition) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
