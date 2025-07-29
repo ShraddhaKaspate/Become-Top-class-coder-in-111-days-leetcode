@@ -22,3 +22,6 @@ class Solution {
         return total;
     }
 }
+
+//O(n)  TC
+//O(n)  SC
