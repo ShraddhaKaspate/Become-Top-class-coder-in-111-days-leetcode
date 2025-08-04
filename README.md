@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0414-third-maximum-number) |
+| [0560-subarray-sum-equals-k](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0682-baseball-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1019-squares-of-a-sorted-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0219-contains-duplicate-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
