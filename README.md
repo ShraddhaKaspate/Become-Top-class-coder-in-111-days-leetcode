@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0287-find-the-duplicate-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1019-squares-of-a-sorted-array) |
+| [2128-reverse-prefix-of-word](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2128-reverse-prefix-of-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0412-fizz-buzz) |
+| [2128-reverse-prefix-of-word](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2128-reverse-prefix-of-word) |
 ## Sorting
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0682-baseball-game) |
+| [2128-reverse-prefix-of-word](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2128-reverse-prefix-of-word) |
 ## Sliding Window
 |  |
 | ------- |
