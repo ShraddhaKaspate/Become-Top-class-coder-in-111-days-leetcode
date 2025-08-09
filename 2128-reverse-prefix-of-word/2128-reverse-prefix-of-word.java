@@ -1,0 +1,15 @@
+class Solution {
+    public String reversePrefix(String word, char ch) {
+        int index=word.indexOf(ch);
+        if(index==-1){
+            return word;
+        }
+
+        StringBuilder str=new StringBuilder(word.substring(0,index+1)); 
+        str.reverse();
+        str.append(word.substring(index + 1));
+
+        return str.toString();
+        
+    }
+}
