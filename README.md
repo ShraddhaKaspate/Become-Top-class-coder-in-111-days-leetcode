@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0682-baseball-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1019-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0575-distribute-candies) |
 ## String
 |  |
 | ------- |
