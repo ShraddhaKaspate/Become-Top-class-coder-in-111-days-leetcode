@@ -43,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0575-distribute-candies) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0920-uncommon-words-from-two-sentences) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0412-fizz-buzz) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2128-reverse-prefix-of-word](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2128-reverse-prefix-of-word) |
 ## Sorting
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0169-majority-element) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Greedy
 |  |
 | ------- |
