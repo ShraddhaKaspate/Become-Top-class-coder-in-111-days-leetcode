@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0412-fizz-buzz) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2128-reverse-prefix-of-word](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2128-reverse-prefix-of-word) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Sorting
 |  |
 | ------- |
