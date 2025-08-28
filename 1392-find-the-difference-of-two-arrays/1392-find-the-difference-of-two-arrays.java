@@ -22,10 +22,12 @@ class Solution {
             list2.add(num);
         }
     }
+    /*
     List<List<Integer>> anslist=new ArrayList<>();
     anslist.add(list1);
     anslist.add(list2);
 
-    return anslist;
+    return anslist;*/
+    return List.of(list1,list2);
     }
 }
