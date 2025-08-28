@@ -10,7 +10,7 @@ class Solution {
         for (Map.Entry<String, Integer> entry : map.entrySet()) {
             String key = entry.getKey();
             if (key.charAt(0) == key.charAt(1) && key.charAt(1) == key.charAt(2)) {
-    if (ans.isEmpty() || key.compareTo(ans) > 0) {
+                 if (ans.isEmpty() || key.compareTo(ans) > 0) {
                     ans = key;
                 }
             }
