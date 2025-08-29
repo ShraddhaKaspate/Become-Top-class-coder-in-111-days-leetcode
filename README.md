@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0682-baseball-game) |
+| [0816-design-hashset](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0816-design-hashset) |
 | [1019-squares-of-a-sorted-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1019-squares-of-a-sorted-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Two Pointers
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0575-distribute-candies) |
+| [0816-design-hashset](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0816-design-hashset) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1392-find-the-difference-of-two-arrays) |
 ## String
@@ -130,4 +132,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0816-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
