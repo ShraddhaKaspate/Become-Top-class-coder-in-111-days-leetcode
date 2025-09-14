@@ -1,5 +1,9 @@
 class Solution {
     public boolean isStrictlyPalindromic(int n) {
-        return false;
+       if(n<4)
+       {
+        return true;
+       }
+       return false;
     }
 }
