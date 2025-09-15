@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0817-design-hashmap) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1392-find-the-difference-of-two-arrays) |
 ## String
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0412-fizz-buzz) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2128-reverse-prefix-of-word](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2128-reverse-prefix-of-word) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Sorting
