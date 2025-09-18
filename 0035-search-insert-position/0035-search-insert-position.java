@@ -3,7 +3,10 @@ class Solution {
         
 
         for(int i=0;i<=nums.length-1;i++){
-            if(nums[i]>=target){
+
+            if(nums[i]==target){
+                return i;
+            }else if(nums[i]>target){
                 return i;
             }
         }
