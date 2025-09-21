@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0817-design-hashmap) |
 | [1019-squares-of-a-sorted-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1019-squares-of-a-sorted-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1392-find-the-difference-of-two-arrays) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0412-fizz-buzz) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2481-strictly-palindromic-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2481-strictly-palindromic-number) |
 ## Simulation
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0682-baseball-game) |
 | [2128-reverse-prefix-of-word](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2128-reverse-prefix-of-word) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -168,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0278-first-bad-version) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
