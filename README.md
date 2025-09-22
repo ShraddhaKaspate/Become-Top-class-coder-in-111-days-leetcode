@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0414-third-maximum-number) |
 | [0525-contiguous-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0560-subarray-sum-equals-k) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1019-squares-of-a-sorted-array) |
 | [2128-reverse-prefix-of-word](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0349-intersection-of-two-arrays) |
 | [0525-contiguous-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0575-distribute-candies) |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0561-array-partition) |
 | [1019-squares-of-a-sorted-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1019-squares-of-a-sorted-array) |
@@ -105,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
