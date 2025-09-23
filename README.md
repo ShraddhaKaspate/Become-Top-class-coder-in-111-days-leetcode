@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0268-missing-number) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0412-fizz-buzz) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0920-uncommon-words-from-two-sentences) |
