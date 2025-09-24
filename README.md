@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0374-guess-number-higher-or-lower) |
 ## Math
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0374-guess-number-higher-or-lower) |
 ## Number Theory
 |  |
 | ------- |
