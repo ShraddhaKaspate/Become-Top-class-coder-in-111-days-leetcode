@@ -12,17 +12,20 @@ class Solution {
             }
             else if(ch==')' || ch==']' || ch=='}' ){
 
-                if(stack.isEmpty() || !matches(stack.pop(),ch)){
+                if(stack.isEmpty()){
                     return false;
                 }
+                char top=stack.pop();
+                if((ch==')'  && top !='(') ||
+                  (ch=='}' && top !='{') ||
+                  (ch ==']' && top !='['))
+                  {
+                    return false;
+                  }
             }
         }
         return stack.isEmpty();
     }
 
-    private static boolean matches(char open, char close) {
-        return (open == '(' && close == ')') ||
-               (open == '{' && close == '}') ||
-               (open == '[' && close == ']');
-    }
+    
 }
