@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0242-valid-anagram) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0682-baseball-game) |
 | [2128-reverse-prefix-of-word](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2128-reverse-prefix-of-word) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2307-replace-non-coprime-numbers-in-array) |
