@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0817-design-hashmap) |
 | [1019-squares-of-a-sorted-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1019-squares-of-a-sorted-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1480-running-sum-of-1d-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1480-running-sum-of-1d-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1480-running-sum-of-1d-array) |
 ## Union Find
 |  |
 | ------- |
