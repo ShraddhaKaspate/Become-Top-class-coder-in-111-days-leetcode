@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1019-squares-of-a-sorted-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1480-running-sum-of-1d-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1392-find-the-difference-of-two-arrays) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## String
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Greedy
 |  |
 | ------- |
