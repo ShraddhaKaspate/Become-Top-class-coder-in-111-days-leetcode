@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1019-squares-of-a-sorted-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1480-running-sum-of-1d-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2307-replace-non-coprime-numbers-in-array) |
