@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2324-find-triangular-sum-of-an-array) |
