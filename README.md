@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0611-valid-triangle-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1019-squares-of-a-sorted-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Greedy
 |  |
