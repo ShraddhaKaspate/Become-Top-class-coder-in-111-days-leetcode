@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0817-design-hashmap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1019-squares-of-a-sorted-array) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1752-check-if-array-is-sorted-and-rotated) |
