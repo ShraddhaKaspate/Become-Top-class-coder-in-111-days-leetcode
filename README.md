@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2404-most-frequent-even-element](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2404-most-frequent-even-element](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/3005-count-elements-with-maximum-frequency) |
 ## String
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2404-most-frequent-even-element](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Greedy
 |  |
