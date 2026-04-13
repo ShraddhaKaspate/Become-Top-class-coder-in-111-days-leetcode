@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0202-happy-number) |
