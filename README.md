@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2404-most-frequent-even-element](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2404-most-frequent-even-element) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Sorting
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2404-most-frequent-even-element](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2404-most-frequent-even-element) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Greedy
 |  |
