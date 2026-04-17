@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1021-remove-outermost-parentheses](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1021-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1903-largest-odd-number-in-string](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1903-largest-odd-number-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0412-fizz-buzz) |
+| [1903-largest-odd-number-in-string](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1903-largest-odd-number-in-string) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2481-strictly-palindromic-number) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0680-valid-palindrome-ii) |
+| [1903-largest-odd-number-in-string](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1903-largest-odd-number-in-string) |
 ## Counting Sort
 |  |
 | ------- |
