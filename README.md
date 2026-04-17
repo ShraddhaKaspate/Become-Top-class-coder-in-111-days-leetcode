@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0680-valid-palindrome-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1021-remove-outermost-parentheses](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1021-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2128-reverse-prefix-of-word](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/0682-baseball-game) |
+| [1021-remove-outermost-parentheses](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/1021-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2128-reverse-prefix-of-word) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ShraddhaKaspate/Become-Top-class-coder-in-111-days/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Sliding Window
