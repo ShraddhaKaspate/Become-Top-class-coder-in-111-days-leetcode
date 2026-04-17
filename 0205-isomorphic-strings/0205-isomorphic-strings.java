@@ -1,5 +1,6 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
+        /*
         if (s.length() != t.length()) return false;
         HashMap<Character,Character> map1=new HashMap<>();
         HashMap<Character,Character> map2=new HashMap<>();
@@ -22,5 +23,17 @@ class Solution {
             i++;
         }
         return true;
+        */
+
+      
+        for(int i = 0; i < s.length(); i++){
+            
+            if(s.indexOf(s.charAt(i)) != t.indexOf(t.charAt(i))){
+                return false;
+            }
+        }
+        
+        return true;
     }
 }
+    
